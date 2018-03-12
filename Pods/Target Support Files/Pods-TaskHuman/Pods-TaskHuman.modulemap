@@ -1,0 +1,6 @@
+framework module Pods_TaskHuman {
+  umbrella header "Pods-TaskHuman-umbrella.h"
+
+  export *
+  module * { export * }
+}
